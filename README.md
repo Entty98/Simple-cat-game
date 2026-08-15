@@ -4,6 +4,6 @@
 
 ## 📌-Note: This project is purely a practice and is not intended to infringe on copyright or the overall project aspect.
 
-The game picture
+## 🖼️-The game picture
 
 <img width="768" height="577" alt="Get The Onion" src="https://github.com/user-attachments/assets/52ec6818-b990-46d7-a28b-db60b146d7f1" />
