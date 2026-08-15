@@ -25,3 +25,6 @@ In this game the player controls a cat on a small map. The goal is to catch fall
 3. Build and run the project from the IDE or using the appropriate command (for .NET projects: `dotnet run` in the project directory).
 
 Note: This project was created as a practice exercise and may use simple project settings suitable for learning. If you run into build/runtime issues, check the project files or open an issue describing the problem.
+
+The game picture
+<img width="768" height="577" alt="Get The Onion" src="https://github.com/user-attachments/assets/52ec6818-b990-46d7-a28b-db60b146d7f1" />
